@@ -1,0 +1,13 @@
+/.vscode
+/node_modules
+./dist
+
+
+*.env
+.env
+.env.*
+
+
+ssh-keygen -t rsa -b 4096 -C "kevalchauhan1419@gmail.com"
+git remote add origin git@github.com:kevalchauhan33/project-backend.git
+
